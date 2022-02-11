@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JulianFleissig
+- 👀 I’m interested in Laravel and PHP
+- 🌱 I’m currently learning Laravel, Javascript, PHP, HTTP
